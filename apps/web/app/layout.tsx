@@ -3,6 +3,7 @@ import { ClerkProvider } from "@clerk/nextjs"
 import "@workspace/ui/globals.css"
 import { Providers } from "@/components/providers"
 
+
 const fontSans = Geist({
   subsets: ["latin"],
   variable: "--font-sans",
